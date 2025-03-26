@@ -45,7 +45,7 @@ Preprocessing:
 ✅ Feature scaling with StandardScaler
 ✅ Train-Test Split (80-20%)
 
-Go to: http://127.0.0.1:5000 🎀
+Go to: http://127.0.0.1:5000 
 
 🎯 Key Highlights
 ✔ Accurate Predictions using Logistic Regression
